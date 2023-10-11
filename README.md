@@ -1,6 +1,6 @@
 # Shopping Cart - React.js
 
-💸 Simple Online Shopping Cart made with the MERN Stack
+💸 Simple Online Shopping Cart made with the MERN Stack (written by germancutraro)
 
 ## Installation
 
@@ -36,3 +36,4 @@ npm run client
 
 * Practice
 * MERN Lover
+
